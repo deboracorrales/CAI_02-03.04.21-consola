@@ -1,0 +1,7 @@
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\bin\Debug\CAI_ej.04.exe.config
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\bin\Debug\CAI_ej.04.exe
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\bin\Debug\CAI_ej.04.pdb
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\obj\Debug\CAI_ej.04.csprojAssemblyReference.cache
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\obj\Debug\CAI_ej.04.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\obj\Debug\CAI_ej.04.exe
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\CAI_ej.04-03.04.21-consola\CAI_ej.04\CAI_ej.04\obj\Debug\CAI_ej.04.pdb
